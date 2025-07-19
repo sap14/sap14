@@ -26,7 +26,7 @@ I’m always looking to push boundaries — whether it’s mastering Spring Boot
 
 #### 🌟 Featured Projects
 
-- 🌐 [My Portfolio](https://github.com/sap14/portfolio)
+- 🌐 [My Portfolio](https://sap14.github.io/)
 
 ---
 
